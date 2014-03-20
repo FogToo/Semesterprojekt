@@ -17,6 +17,7 @@ public class Semesterproject {
      */
     public static void main(String[] args) {
         String sunesucks = "Hej Sune. Du lugter af tis.";
+        Boolean FrederikHarRet = false; //AAAAAAAAAAAAAAAAAAAAAAAAAAAARGGGHHGHGHGHG!!!!
     }
     
 }
