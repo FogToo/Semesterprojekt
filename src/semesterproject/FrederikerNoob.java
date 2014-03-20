@@ -12,4 +12,7 @@ package semesterproject;
  */
 public class FrederikerNoob {
    Boolean rigtig = true; 
+
+
+
 }
